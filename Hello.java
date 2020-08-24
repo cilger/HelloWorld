@@ -5,6 +5,8 @@ public class Hello {
 
             if (i == 5) {
                 System.out.println("Hello from nr 5");
+            }if (i == 6) {
+                System.out.println("Hello from nr 6");
             } else {
                 System.out.println("Hello World ..." + i);
             }
